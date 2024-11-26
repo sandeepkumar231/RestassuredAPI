@@ -1,0 +1,8 @@
+13:53:57.042 [main] INFO  test.UserTests - *************** cteating user***********
+13:54:02.306 [main] INFO  test.UserTests - *************** user is created***********
+13:54:02.313 [main] INFO  test.UserTests - *************** reading user info***********
+13:54:03.766 [main] INFO  test.UserTests - *************** reading user displayed***********
+13:54:03.780 [main] INFO  test.UserTests - *************** updating user***********
+13:54:05.326 [main] INFO  test.UserTests - ***************  user is updated***********
+13:54:06.944 [main] INFO  test.UserTests - **********   Deleting User  ***************
+13:54:08.983 [main] INFO  test.UserTests - ********** User deleted ***************
